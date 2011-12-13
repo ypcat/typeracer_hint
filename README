@@ -1,0 +1,15 @@
+An userscript that shows Chinese input method hint in typeracer.com. 
+Hint is shown when you type the wrong word.
+Right now only Cangjie is supported (both version 3 and 5).
+
+Tested on Firefox 8.0.1
+
+Need to install Greasemonkey in Firefox:
+https://addons.mozilla.org/firefox/addon/greasemonkey/
+
+To install the script, click:
+https://github.com/ypcat/typeracer_hint/raw/master/typeracer.user.js
+
+To run the script, visit:
+http://play.typeracer.com/?universe=lang_zh-tw
+
