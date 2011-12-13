@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           typeracer
 // @namespace      ypcat.tw
-// @include        http://play.typeracer.com/*
+// @include        http://play.typeracer.com/?universe=lang_zh-tw
 // @require        http://code.jquery.com/jquery.min.js
 // ==/UserScript==
 
