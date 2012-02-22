@@ -3,6 +3,7 @@
 // @namespace      ypcat.tw
 // @include        http://play.typeracer.com/?universe=lang_zh-tw
 // @require        http://code.jquery.com/jquery.min.js
+// @version        1.0
 // ==/UserScript==
 
 // input method dictionary
